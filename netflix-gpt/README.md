@@ -74,8 +74,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Create react app
 Configured tailwindcss
 build haeder
+Routing of App
 Login Form
-Sign up form 
+Sign up form
+Form Validation
+Useref Hooks 
 
 
 
