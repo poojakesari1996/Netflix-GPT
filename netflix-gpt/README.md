@@ -73,6 +73,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Create react app
 Configured tailwindcss
+build haeder
+Login Form
+Sign up form 
+
 
 
 Features:
@@ -90,4 +94,11 @@ Features:
    -NetflixGPT
         Search Bar
         -Movie Suggestions
+
+
+        rafce==== react aaropw function componenet export
+
+
+
+  1: lets build a common header      
 
