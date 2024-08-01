@@ -79,6 +79,9 @@ Login Form
 Sign up form
 Form Validation
 Useref Hooks 
+Fitebase Setup
+Deploying our app to production
+Create a signup user account
 
 
 
